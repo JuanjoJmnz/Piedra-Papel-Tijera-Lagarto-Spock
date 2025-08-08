@@ -38,7 +38,7 @@ while True:
         eleccion_ord_nombre = "Papel"
     elif eleccion_ord == 3:
         eleccion_ord_nombre = "Tijera"
-    elif eleccion == 4:
+    elif eleccion_ord == 4:
         eleccion_ord_nombre = "Lagarto"
     else:
         eleccion_ord_nombre = "Spock"
